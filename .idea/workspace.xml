@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="922e755c-4f85-436a-906a-c04bb668ac5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ChrisTuttle/source/partials/_header.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChrisTuttle/source/about.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChrisTuttle/source/contact.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChrisTuttle/source/experience.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChrisTuttle/source/personalProj.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChrisTuttle/source/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/ChrisTuttle/source/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChrisTuttle/source/partials/_header.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/ChrisTuttle/source/partials/_header.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChrisTuttle/source/stylesheets/site.css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ChrisTuttle/source/stylesheets/site.css.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +41,18 @@
       <option name="presentableId" value="Default" />
       <updated>1608850162266</updated>
       <workItem from="1608850172995" duration="2757000" />
-      <workItem from="1608858935396" duration="2580000" />
+      <workItem from="1608858935396" duration="3023000" />
+      <workItem from="1608949965582" duration="2572000" />
+      <workItem from="1609009604369" duration="5032000" />
     </task>
+    <task id="LOCAL-00001" summary="Got the header partial finished">
+      <created>1608861904057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608861904057</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -52,5 +69,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Got the header partial finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Got the header partial finished" />
   </component>
 </project>
